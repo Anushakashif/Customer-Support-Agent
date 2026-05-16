@@ -294,10 +294,4 @@ python -c "from rag.embedder import load_knowledge_base; load_knowledge_base()"
 
 The system immediately searches the updated knowledge base on the next request.
 
----
 
-## Author
-
-**Anusha Kashif**
-CS Student · Karachi, Pakistan
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
